@@ -1,0 +1,11 @@
+C:\Users\758765\source\repos\Tournament\Tournament\bin\Debug\netcoreapp3.1\Tournament.exe
+C:\Users\758765\source\repos\Tournament\Tournament\bin\Debug\netcoreapp3.1\Tournament.deps.json
+C:\Users\758765\source\repos\Tournament\Tournament\bin\Debug\netcoreapp3.1\Tournament.runtimeconfig.json
+C:\Users\758765\source\repos\Tournament\Tournament\bin\Debug\netcoreapp3.1\Tournament.runtimeconfig.dev.json
+C:\Users\758765\source\repos\Tournament\Tournament\bin\Debug\netcoreapp3.1\Tournament.dll
+C:\Users\758765\source\repos\Tournament\Tournament\bin\Debug\netcoreapp3.1\Tournament.pdb
+C:\Users\758765\source\repos\Tournament\Tournament\obj\Debug\netcoreapp3.1\Tournament.csprojAssemblyReference.cache
+C:\Users\758765\source\repos\Tournament\Tournament\obj\Debug\netcoreapp3.1\Tournament.AssemblyInfoInputs.cache
+C:\Users\758765\source\repos\Tournament\Tournament\obj\Debug\netcoreapp3.1\Tournament.AssemblyInfo.cs
+C:\Users\758765\source\repos\Tournament\Tournament\obj\Debug\netcoreapp3.1\Tournament.dll
+C:\Users\758765\source\repos\Tournament\Tournament\obj\Debug\netcoreapp3.1\Tournament.pdb
