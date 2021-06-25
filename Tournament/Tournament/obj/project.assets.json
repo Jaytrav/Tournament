@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\758765\\source\\repos\\Tournament\\Tournament\\Tournament.csproj",
+      "projectUniqueName": "\\\\Y-STORAGE04\\Y-W-STU-02-H\\758765\\System\\Profile\\Desktop\\Tournament\\Tournament\\Tournament.csproj",
       "projectName": "Tournament",
-      "projectPath": "C:\\Users\\758765\\source\\repos\\Tournament\\Tournament\\Tournament.csproj",
+      "projectPath": "\\\\Y-STORAGE04\\Y-W-STU-02-H\\758765\\System\\Profile\\Desktop\\Tournament\\Tournament\\Tournament.csproj",
       "packagesPath": "C:\\Users\\758765\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\758765\\source\\repos\\Tournament\\Tournament\\obj\\",
+      "outputPath": "\\\\Y-STORAGE04\\Y-W-STU-02-H\\758765\\System\\Profile\\Desktop\\Tournament\\Tournament\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "\\\\Y-STORAGE04\\Y-W-STU-02-H\\758765\\System\\Profile\\AppData.V5\\NuGet\\NuGet.Config",

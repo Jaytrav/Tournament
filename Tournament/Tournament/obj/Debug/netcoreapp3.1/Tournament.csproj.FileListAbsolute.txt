@@ -9,3 +9,14 @@ C:\Users\758765\source\repos\Tournament\Tournament\obj\Debug\netcoreapp3.1\Tourn
 C:\Users\758765\source\repos\Tournament\Tournament\obj\Debug\netcoreapp3.1\Tournament.AssemblyInfo.cs
 C:\Users\758765\source\repos\Tournament\Tournament\obj\Debug\netcoreapp3.1\Tournament.dll
 C:\Users\758765\source\repos\Tournament\Tournament\obj\Debug\netcoreapp3.1\Tournament.pdb
+\\Y-STORAGE04\Y-W-STU-02-H\758765\System\Profile\Desktop\Tournament\Tournament\bin\Debug\netcoreapp3.1\Tournament.exe
+\\Y-STORAGE04\Y-W-STU-02-H\758765\System\Profile\Desktop\Tournament\Tournament\bin\Debug\netcoreapp3.1\Tournament.deps.json
+\\Y-STORAGE04\Y-W-STU-02-H\758765\System\Profile\Desktop\Tournament\Tournament\bin\Debug\netcoreapp3.1\Tournament.runtimeconfig.json
+\\Y-STORAGE04\Y-W-STU-02-H\758765\System\Profile\Desktop\Tournament\Tournament\bin\Debug\netcoreapp3.1\Tournament.runtimeconfig.dev.json
+\\Y-STORAGE04\Y-W-STU-02-H\758765\System\Profile\Desktop\Tournament\Tournament\bin\Debug\netcoreapp3.1\Tournament.dll
+\\Y-STORAGE04\Y-W-STU-02-H\758765\System\Profile\Desktop\Tournament\Tournament\bin\Debug\netcoreapp3.1\Tournament.pdb
+\\Y-STORAGE04\Y-W-STU-02-H\758765\System\Profile\Desktop\Tournament\Tournament\obj\Debug\netcoreapp3.1\Tournament.csprojAssemblyReference.cache
+\\Y-STORAGE04\Y-W-STU-02-H\758765\System\Profile\Desktop\Tournament\Tournament\obj\Debug\netcoreapp3.1\Tournament.AssemblyInfoInputs.cache
+\\Y-STORAGE04\Y-W-STU-02-H\758765\System\Profile\Desktop\Tournament\Tournament\obj\Debug\netcoreapp3.1\Tournament.AssemblyInfo.cs
+\\Y-STORAGE04\Y-W-STU-02-H\758765\System\Profile\Desktop\Tournament\Tournament\obj\Debug\netcoreapp3.1\Tournament.dll
+\\Y-STORAGE04\Y-W-STU-02-H\758765\System\Profile\Desktop\Tournament\Tournament\obj\Debug\netcoreapp3.1\Tournament.pdb
